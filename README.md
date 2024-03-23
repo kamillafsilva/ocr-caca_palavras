@@ -13,4 +13,4 @@ A primeira etapa da solução implementada consistiu em extrair todos os caracte
 Todo texto extraído foi salvo em forma de uma matriz com as mesmas dimensões do caça-palavras de entrada. Com isso, foi possível buscar as palavras da solução do jogo percorrendo essa matriz horizontalmente, verticalmente e nas diagonais. Os índices associados a cada palavra foram usados para marcar no caça-palavras os locais onde elas se encontravam, completando a solução do jogo.
 
 ## Utilização
-O projeto foi desenvolvido na plataforma [Colab](https://colab.research.google.com/) do Google, devido a praticidade na instalação dos pacotes. O notebook do projeto pode ser baixado do repositório do Github e importado para o Colab para execução dos códigos.
+O projeto foi desenvolvido na plataforma [Colab](https://colab.research.google.com/) do Google, devido a praticidade na instalação dos pacotes. O [notebook do projeto](https://github.com/kamillafsilva/ocr-caca_palavras/blob/main/notebook/ocr-caca_palavras.ipynb) pode ser baixado do repositório do Github e importado para o Colab para execução dos códigos.
